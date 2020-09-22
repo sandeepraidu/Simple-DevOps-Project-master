@@ -13,3 +13,5 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 
 
 Sandeep Raidu Version- 1
+Testing merge conflicts code
+Another line for testing git
